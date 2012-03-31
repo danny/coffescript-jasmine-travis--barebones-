@@ -1,3 +1,7 @@
+
+"!https://secure.travis-ci.org/danny/coffescript-jasmine-travis--barebones-.png!":http://travis-ci.org/danny/coffescript-jasmine-travis--barebones-
+
+
 Run
 
 0. bundle exec guard (coffeescript compiler)

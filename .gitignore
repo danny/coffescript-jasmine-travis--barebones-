@@ -1,5 +1,6 @@
 *~
 *.swp
+*.swo
 guard/*
 list/*
 src/js/*.js

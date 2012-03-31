@@ -1,0 +1,6 @@
+*~
+*.swp
+guard/*
+list/*
+src/js/*.js
+spec/javascripts/*.js

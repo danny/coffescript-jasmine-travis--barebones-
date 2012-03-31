@@ -1,0 +1,5 @@
+Run
+
+0. bundle exec guard (coffeescript compiler)
+1. bundle exec rake jasmine (testing)
+  note: jasmine is configured in spec/javascripts/support/jasmine.yml

@@ -6,4 +6,5 @@ group :development do
   gem 'guard-livereload'
   gem 'rake'
   gem 'jasmine'
+  gem 'travis-lint'
 end

@@ -3,6 +3,5 @@
 *.swo
 .bundle/*
 guard/*
-list/*
 src/js/*.js
 spec/javascripts/*.js
